@@ -6,14 +6,14 @@
 #### Atualmente estudando 📚:
 - Modelos de previsões
 - Redes neurais
-- Segurança de rede
 - Criptografia
 
 #### Trabalho atualmente com 🧑‍💼:
+- Análise de dados
 - Logística
 - Cadeia de ressuprimentos
 - Planejamento de compras
-- Análise de dados
+
 
 ##
 
