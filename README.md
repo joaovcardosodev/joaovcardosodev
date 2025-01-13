@@ -1,18 +1,17 @@
 ### Olá! Me chamo João! 👋 (PT)
 
-- Sou um estudante de engenharia de telecomunicações com ânsia pelo novo
+- Sou um cientista de dados com ânsia pelo novo
 - Espero compartilhar por aqui meu processo eterno de aprendizado
 
 #### Atualmente estudando 📚:
-- Modelos de previsões
-- Redes neurais
-- Criptografia
+- Modelos de Classificação
+- Gradient Boosting
+- Engenharia de dados com Spark
+- Processamento de Linguagem Natural
 
 #### Trabalho atualmente com 🧑‍💼:
-- Análise de dados
-- Logística
-- Cadeia de ressuprimentos
-- Planejamento de compras
+- Modelos para seguros de automóveis
+- Bases desbalanceadas
 
 
 ##
@@ -22,6 +21,8 @@
   <a href = "https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a> 
   <a href="https://sqlite.org/index.html" target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank"></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" target="_blank"></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank"></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" target="_blank"></a>
 </div>
 
@@ -41,20 +42,18 @@
 
 ### Hello! My name is João! 👋 (EN)
 
-- I'm a telecommunications engineering student with a passion for the new
-- I hope to share here my eternal learning process
+- I'm a data scientist with a passion for new things
+- I hope to share my eternal learning process here
 
 #### Currently studying 📚:
-- Forecast models
-- Neural networks
-- Network security
-- Cryptography
+- Classification Models
+- Gradient Boosting
+- Data Engineering with Spark
+- Natural Language Processing
 
 #### I currently work with  🧑‍💼:
-- Logistics
-- Resupply chain
-- Purchase planning
-- Data analysis
+- Models for car insurance
+- Unbalanced datasets
 
 ##
 
@@ -63,6 +62,8 @@
   <a href = "https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a> 
   <a href="https://sqlite.org/index.html" target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank"></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" target="_blank"></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank"></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" target="_blank"></a>
 </div>
 
